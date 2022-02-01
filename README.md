@@ -29,7 +29,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 
 ### Let's connect!
 <p>
-Hoamzzzz
+Hoamzzz
 </p>
 
 <!--
