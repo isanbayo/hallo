@@ -1,51 +1,65 @@
-# Hi there 👋 , I'm Ihsan!
-Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
-
-##
-Repo di profile gw beberapa punya orang
-
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
+<p align="center">
+  <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+a+Newbie😼;Currently+Learning+HTML;Don't+bully+me+>//<" alt="UwU">
 </p>
 
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=isanbayo&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+---------
+
+[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isanbayo)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628975767944)
+
+---------
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+    <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572b6" />
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
+<img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php" />
+<img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
+
+---------
+
 </p>
 
-### Let's connect!
-<p>
-Hoamzzz
+
+  ### My statistic
+
+<p align="center">
+  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=isanbayo&theme=tokyonight&show_icons=true" /></a>
 </p>
 
-<!--
-**isanbayo/hallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/isanbayo"><img src="https://github-readme-streak-stats.herokuapp.com?user=isanbayo&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/isanbayo"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=isanbayo&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/isanbayo"><img src="https://github-profile-trophy.vercel.app/?username=isanbayo&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isanbayo&theme=monokai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isanbayo&label=VIEWS&style=flat-square&color=blue" />
+</p>
+
+```js
+
+var bio = `
+
+Name: Ihsan
+From: Indonesia 🇮🇩
+Age: 22
+Currently learning: php, c++, nodejs
+`
+return bio
+
+
+// Don't bully me >///<
+
+```
