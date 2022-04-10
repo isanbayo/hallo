@@ -37,8 +37,9 @@
   <a href="https://github.com/isanbayo"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=isanbayo&theme=tokyonight&layout=compact" /></a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isanbayo&theme=monokai)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isanbayo&theme=monokai" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isanbayo&label=VIEWS&style=flat-square&color=blue" />
