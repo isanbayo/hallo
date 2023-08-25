@@ -25,17 +25,6 @@
 
   ### My statistic
 
-<p align="center">
-  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=isanbayo&theme=tokyonight&show_icons=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/isanbayo"><img src="https://github-readme-streak-stats.herokuapp.com?user=isanbayo&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/isanbayo"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=isanbayo&theme=tokyonight&layout=compact" /></a>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isanbayo&theme=monokai" />
