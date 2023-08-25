@@ -40,7 +40,7 @@ var bio = `
 
 Name: Ihsan
 From: Indonesia 🇮🇩
-Age: 22
+Age: 23
 Currently learning: php, c++, nodejs
 `
 return bio
